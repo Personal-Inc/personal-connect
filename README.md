@@ -75,9 +75,6 @@ After allowing the access to application, this application accesses the informat
 4. That's it!!! Run the application.
 
 
-### Live demo
-Live demo can be checked on http://siddhesh.phpfogapp.com/challengeLoginNew/
-
 ### License
 Copyright (C) 2012 Personal
 
