@@ -20,7 +20,7 @@ if (array_key_exists("login", $_GET)) {
 ?>
 <html>
 <head>
-	<title>Twitter Facebook Login By Siddhesh Shivtarkar</title>
+	<title>Twitter Facebook Login</title>
 	<link rel="stylesheet" href="css/styles.css" />
 	
 </head>
