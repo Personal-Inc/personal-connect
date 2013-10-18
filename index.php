@@ -36,7 +36,7 @@ if (array_key_exists('logout', $_GET)) {
 	    <a href="?login&oauth_provider=twitter"><img src="images/twitter.png"></a>&nbsp;&nbsp;&nbsp;
 	    <a href="?login&oauth_provider=facebook"><img src="images/facebook.png"></a>
 	    <a href="?login&oauth_provider=personal"><img src="images/personal.png"></a>
-		<h1>Twitter Facebook Login<br/>...By Siddhesh Shivtarkar </h1>
+		<h1>Twitter Facebook Login</h1>
 	</div>
 </body>
 </html>
