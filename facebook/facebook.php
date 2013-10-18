@@ -14,7 +14,7 @@ if (!function_exists('json_decode')) {
 /**
  * Thrown when an API call returns an exception.
  *
- * @author Siddhesh Shivtarkar <siddhesh619@gmail.com>
+ *
  */
 class FacebookApiException extends Exception
 {
@@ -97,7 +97,7 @@ class FacebookApiException extends Exception
 /**
  * Provides access to the Facebook Platform.
  *
- * @author Siddhsh Shivtarkar <siddhesh619@gmail.com>
+ * 
  */
 class Facebook
 {
